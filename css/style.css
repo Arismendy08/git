@@ -1,0 +1,23 @@
+body
+{
+    text-align: center;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: aqua;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container
+{
+    border: 1px solid #cccccc;
+    margin: 0 auto;
+    text-align: left;
+    width: 70%;
+    padding: 1em;
+}
+
+#container h1
+{
+    font-size: 20px;
+}
